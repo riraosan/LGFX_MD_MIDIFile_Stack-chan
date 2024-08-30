@@ -90,5 +90,6 @@
   "markdown-pdf.margin.top": "2.5cm",
   "markdown-pdf.margin.bottom": "3.5cm",
   "markdown-pdf.margin.right": "2cm",
-  "markdown-pdf.margin.left": "2cm"
+  "markdown-pdf.margin.left": "2cm",
+  "workbench.editor.tabActionLocation": "left"
 }
